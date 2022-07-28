@@ -170,3 +170,34 @@ main {
 .stat p {
     color: #ffffff;
 }
+
+.heading {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.left {
+    color: #ffffff;
+    width: 30%;
+}
+
+.left h1 {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.button {
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+}
+
+.button a {
+    background-color: #FF3343;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: 25px;
+
+}
